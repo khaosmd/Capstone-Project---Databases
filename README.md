@@ -1,4 +1,4 @@
-# Capstone-Project---Databases
+# Databases_Project
 Java OOP project that utilises a database, JDBC and SQL for queries.
 
 The project is a project management system for a structural engineering firm called "Poised". It is a java program that the firm can use to capture 
